@@ -1,0 +1,6 @@
+{
+  "name": "iOS Settings 26",
+  "description": "iOS 26-inspired settings hub for Realme C71 4G on Android 16 with real system settings integration, live device telemetry, and customizable profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
